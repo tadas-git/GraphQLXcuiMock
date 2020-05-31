@@ -1,0 +1,22 @@
+PODS:
+  - Apollo (0.27.1):
+    - Apollo/Core (= 0.27.1)
+  - Apollo/Core (0.27.1)
+  - Swifter (1.4.7)
+
+DEPENDENCIES:
+  - Apollo (~> 0.27.0)
+  - Swifter (~> 1.4.7)
+
+SPEC REPOS:
+  trunk:
+    - Apollo
+    - Swifter
+
+SPEC CHECKSUMS:
+  Apollo: e5c057c155bf28bcfbf928e0d69e3ce643f1a1c6
+  Swifter: 2327ef5d872c638aebab79646ce494af508b0c8f
+
+PODFILE CHECKSUM: 6c13702ec9d6ec5a375d78094c6a5626e12df5b2
+
+COCOAPODS: 1.9.3

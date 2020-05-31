@@ -1,0 +1,13 @@
+query findAllUsers{
+  users{
+    results{
+      username
+    }
+  }
+}
+
+query GetEmail($id: ID!) {
+  user(id: $id) {
+    emailAddress
+  }
+}

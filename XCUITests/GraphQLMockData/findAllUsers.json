@@ -1,0 +1,14 @@
+{
+    "data": {
+        "users": {
+            "__typename": "UserFindResult",
+            "results": [{
+                "__typename": "User",
+                "username": "hellooooo123"
+            }, {
+                "__typename": "User",
+                "username": "Snow114"
+            }]
+        }
+    }
+}
